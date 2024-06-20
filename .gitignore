@@ -97,6 +97,19 @@ dist
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+pnpm-debug.log*
+lerna-debug.log*
+
 # vuepress build output
 .vuepress/dist
 
@@ -128,3 +141,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
