@@ -1,6 +1,6 @@
-import React from 'react';
-import { ProductProvider } from './context/ProductContext';
-import AppContainer from './components/AppContainer';
+import React from "react";
+import { ProductProvider } from "./context/ProductContext";
+import AppContainer from "./components/AppContainer";
 
 function App() {
 

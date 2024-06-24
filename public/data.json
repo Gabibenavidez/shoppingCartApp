@@ -4,61 +4,70 @@
     "name": "Leche",
     "price": 75000,
     "amount": 2,
+    "image": "https://s2.abcstatics.com/media/bienestar/2020/07/09/leche-fucha-kqoG--1248x698@abc.jpg",
     "id": 1
     },
     {
     "name": "Cereal",
     "price": 85300,
     "amount": 3,
+    "image": "https://images.ecestaticos.com/hvBbqRCLPN5Pa9UD4l1HbEPUUJE=/0x0:2272x1515/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7f%2Fb52%2Fca1%2Fa7fb52ca177de12390deda62ab763f0e.jpg",
     "id": 2
     },
     {
     "name": "Huevos",
     "price": 75000,
     "amount": 12,
+    "image": "https://uchile.cl/.imaging/default/dam/imagenes/Uchile/VEXCOM/2023/OCTUBRE-2023/huevo.zip/5-D-a-del-huevo/HUEVOS-01-L.jpg/jcr:content.jpg",
     "id": 3
     },
     {
     "name": "Carne",
     "price": 85300,
     "amount": 21,
-    
+    "image": "https://media.gq.com.mx/photos/620bcf7243f71a078a355280/16:9/w_1600,c_limit/carnes-85650597.jpg",
     "id": 4
     },
     {
     "name": "Queso",
     "price": 75000,
     "amount": 8,
+    "image": "https://static.diarioconvos.com/uploads/2024/01/queso-jalsberg-828x548.jpg",
     "id": 5
     },
     {
     "name": "Arroz",
     "price": 85300,
     "amount": 9,
+    "image": "https://s2.abcstatics.com/media/bienestar/2020/08/26/arroz-blanco-kUXE--1248x698@abc.jpg",
     "id": 6
     },
     {
     "name": "Frijoles",
     "price": 85300,
     "amount": 32,
+    "image": "https://images.cookforyourlife.org/wp-content/uploads/2015/08/Basic-Black-Beans-2-e1666973834544.jpg",
     "id": 7
     },
     {
     "name": "Lentejas",
     "price": 175000,
     "amount": 42,
+    "image": "https://minimalistbaker.com/wp-content/uploads/2020/09/Instant-Pot-LENTILS-Perfect-tender-FAST-no-soaking-required-instantpot-plantbased-howto-recipe-minimalistbaker-4-1365x2048.jpg",
     "id": 8
     },
     {
     "name": "Avena",
     "price": 85300,
     "amount": 56,
+    "image": "https://granvita.com/wp-content/uploads/2021/04/que-es-avena-portada.jpg",
     "id": 9
     },
     {
     "name": "Pollo",
     "price": 375000,
     "amount": 23,
+    "image": "https://imagenes.elpais.com/resizer/v2/4HWUG3I7PVA7VKAWLQVCBUL4E4.jpg?auth=114b5a92f5b098e2c67d9642883a4e7a3010b6020bac133f60f1c766f565b78f&width=980",
     "id": 10
     }
     ]
