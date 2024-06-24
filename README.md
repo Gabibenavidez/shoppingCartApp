@@ -61,9 +61,8 @@ cd shopping-cart-app
   </code>
   </pre>
 
-  <h2>Visit <a href="https://shopping-cart-app-v01.netlify.app"></h2>
-  ![image](https://github.com/Gabibenavidez/shoppingCartApp/assets/67611222/7c248003-3c5a-46be-81b1-696171966c0e)
-
+  <h2>Visit <a href="https://shopping-cart-app-v01.netlify.app">Shopping Cart App</a></h2>
+  <img src="https://github.com/Gabibenavidez/shoppingCartApp/assets/67611222/7c248003-3c5a-46be-81b1-696171966c0e" alt="Application Screenshot">
 
   <h2>Contributing</h2>
   <p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are <strong>greatly appreciated</strong>.</p>
