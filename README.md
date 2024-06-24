@@ -1,58 +1,81 @@
-# Shopping Cart App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping Cart App</title>
+</head>
+<body>
+  <h1>Shopping Cart App</h1>
 
-## Overview
-This project is a React application for managing a shopping cart. It allows users to list products, add them to the cart, and make purchases.
+  <h2>Overview</h2>
+  <p>This project is a React application for managing a shopping cart. It allows users to list products, add them to the cart, and make purchases.</p>
 
-## Features
-- 🛒 List products with option to add to cart
-- 🛍️ Shopping cart functionality with total calculation
-- 🌙 Dark mode toggle
-- 📦 Add new products page
+  <h2>Features</h2>
+  <ul>
+    <li><span style="font-size: 1.5em;">🛒</span> List products with option to add to cart</li>
+    <li><span style="font-size: 1.5em;">🛍️</span> Shopping cart functionality with total calculation</li>
+    <li><span style="font-size: 1.5em;">🌙</span> Dark mode toggle</li>
+    <li><span style="font-size: 1.5em;">📦</span> Add new products page</li>
+  </ul>
 
-## Technologies Used
-- React
-- Styled Components
-- React-Router
-- React Context
+  <h2>Technologies Used</h2>
+  <ul>
+    <li>React</li>
+    <li>Styled Components</li>
+    <li>React-Router</li>
+    <li>React Context</li>
+  </ul>
 
-## Getting Started
-To get a local copy up and running, follow these steps:
+  <h2>Getting Started</h2>
+  <ol>
+    <li><strong>Clone the repository:</strong>
+      <pre><code>git clone https://github.com/Gabibenavidez/shopping-cart-app.git
+cd shopping-cart-app
+      </code></pre>
+    </li>
+    <li><strong>Install dependencies:</strong>
+      <pre><code>npm install
+      </code></pre>
+    </li>
+    <li><strong>Run the development server:</strong>
+      <pre><code>npm start
+      </code></pre>
+    </li>
+    <li>Open <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to view the application.</li>
+  </ol>
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/Gabibenavidez/shopping-cart-app.git
-   cd shopping-cart-app
-   
-Install dependencies:
-npm install
+  <h2>Project Structure</h2>
+  <pre>
+  <code>
+    ├── public
+    ├── src
+    │   ├── components
+    │   ├── context
+    │   ├── utils
+    │   ├── App.js
+    │   ├── index.js
+    │   └── ...
+    ├── .gitignore
+    ├── package.json
+    └── README.md
+  </code>
+  </pre>
 
-Run the development server:
-
-npm start
-Open http://localhost:3000 in your browser to view the application.
-
-Project Structure
-├── public
-├── src
-│   ├── components
-│   ├── context
-│   ├── utils
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-└── README.md
-
-Visit https://shopping-cart-app-v01.netlify.app/
-![image](https://github.com/Gabibenavidez/shoppingCartApp/assets/67611222/1c63cf2a-8851-46e8-888d-f95cd3e35691)
+  <h2>Visit <a href="https://shopping-cart-app-v01.netlify.app"></h2>
+  ![image](https://github.com/Gabibenavidez/shoppingCartApp/assets/67611222/7c248003-3c5a-46be-81b1-696171966c0e)
 
 
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+  <h2>Contributing</h2>
+  <p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are <strong>greatly appreciated</strong>.</p>
+  <ol>
+    <li>Fork the Project</li>
+    <li>Create your Feature Branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
+    <li>Commit your Changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
+    <li>Push to the Branch (<code>git push origin feature/AmazingFeature</code>)</li>
+    <li>Open a Pull Request</li>
+  </ol>
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+</body>
+</html>
+
