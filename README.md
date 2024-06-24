@@ -38,7 +38,7 @@ cd shopping-cart-app
       </code></pre>
     </li>
     <li><strong>Run the development server:</strong>
-      <pre><code>npm start
+      <pre><code>npm run start
       </code></pre>
     </li>
     <li>Open <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to view the application.</li>
