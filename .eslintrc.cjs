@@ -12,6 +12,12 @@ module.exports = {
   settings: { react: { version: 'detect' } },
   plugins: ['react-refresh', 'react'],
   rules: {
+    "indent": ["error", 2],
+    "linebreak-style": ["error", "unix"],
+    "quotes": ["error", "double"], 
+    "semi": ["error", "always"], 
+    "no-console": "warn",
+    "react/prop-types": "off",
     'no-unused-vars': ['error', { varsIgnorePattern: 'React' }],
     'react/jsx-no-target-blank': 'off',
     'react/react-in-jsx-scope': 'off',
